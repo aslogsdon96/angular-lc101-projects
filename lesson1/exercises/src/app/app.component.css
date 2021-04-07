@@ -1,0 +1,15 @@
+hr {
+    border-bottom: solid black;
+}
+
+.verticalLine {
+    border-left: dashed black;
+}
+
+fav-links {
+    text-align: center;
+}
+
+.container {
+    background-color:rgb(170, 244, 247);
+}
